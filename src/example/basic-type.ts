@@ -38,9 +38,3 @@ const consoleText = (Text:string):void =>{
 consoleText("china");
 
 
-const infi = () =>
-{
-	while (true) {
-		
-	}
-}
